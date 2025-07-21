@@ -20,7 +20,7 @@ This is a simple Python game developed as my first project using all the concept
 - Flow control with conditionals
 - Getting user input and decision making
 
- 📸 Preview:![Alt Text](project1ss.png)
+ 📸 Preview:![Rock Paper Scissors Game Output](<img width="1182" height="450" alt="Image" src="https://github.com/user-attachments/assets/becadca0-294c-4977-bdb1-638bcf35f3d4" />)
 
 ## 👤 Author:
 [Abdullah – Full Stack Data Engineer Aspirant](https://github.com/abdullah-fsde)
