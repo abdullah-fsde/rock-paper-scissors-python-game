@@ -20,7 +20,7 @@ This is a simple Python game developed as my first project using all the concept
 - Flow control with conditionals
 - Getting user input and decision making
 
- 📸 Preview:
+ 📸 Preview:![Alt Text](project1ss.png)
 
 ## 👤 Author:
 [Abdullah – Full Stack Data Engineer Aspirant](https://github.com/abdullah-fsde)
